@@ -1,0 +1,91 @@
+html, body{
+   
+    background-image: url(imagem/desktop-wallpaper-grounded.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+body{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+header{
+    font-family: 'Inter', sans-serif;
+    font-family: 'Vina Sans', cursive;
+    font-size: 30px;
+    height: 15%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 0;
+    padding-top: 0;
+}
+
+nav{
+    display: flex;      
+    margin: 0 0;
+    padding: 0 0;
+    text-align: right;
+          
+}
+
+li{
+    text-decoration: none;
+    display: inline-block;
+    
+    
+}
+
+ul{
+    margin-top: 0;
+}
+
+li a{
+    text-decoration: none;
+    list-style-type: none;
+    color: rgb(181, 253, 99);
+    margin-left: 15px;
+
+}
+
+.topo2{
+    letter-spacing: 2px;
+    color: rgb(181, 253, 99);
+    margin-top: 0;
+}
+
+.historia{
+    width: 50%;
+    background-color: rgba(29, 66, 136, 0.219);
+    color: black;
+    font-size: 1.5em;
+   text-align: center;
+   margin-left: 350px;
+   margin-top: 100px;
+}
+
+h2{
+    font-family: 'Oswald', sans-serif;
+    font-size: 3em;
+    text-align: center;
+    color:rgb(181, 253, 99) ;
+    margin-top: 150px;
+}
+
+footer{
+    color:rgb(0, 0, 0);
+    background-color: rgb(27, 83, 15);
+    display: flex;
+    justify-content: center;
+    margin-bottom: 0;
+}
+    
+h1{
+    font-family: 'Oswald', sans-serif;
+    color: yellowgreen;
+    font-size: 10em;
+    text-align: center;    
+    padding: 120px;     
+}
+
